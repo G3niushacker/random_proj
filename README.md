@@ -1,4 +1,4 @@
-# food_delivery_app
+# random_app
 
 A new Flutter project.
 
